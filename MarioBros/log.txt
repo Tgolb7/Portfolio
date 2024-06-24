@@ -1,0 +1,921 @@
+
+
+ ~ M ~ A ~ R ~ I ~ O ~ 
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (3, 4)
+Lives remaining: 3
+Coins in wallet: 0
+Power Level: 0
+
+c b k m c 
+c x m g c 
+g m w k c 
+x c m k H 
+k g x m g 
+
+Mario will move UP.
+Mario picked up a coin! (1)
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (2, 4)
+Lives remaining: 3
+Coins in wallet: 1
+Power Level: 0
+
+c b k m c 
+c x m g c 
+g m w k H 
+x c m k x 
+k g x m g 
+
+Mario will move LEFT.
+Mario fought a koopa and won!
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (2, 3)
+Lives remaining: 3
+Coins in wallet: 1
+Power Level: 0
+
+c b k m c 
+c x m g c 
+g m w H x 
+x c m k x 
+k g x m g 
+
+Mario will move UP.
+Mario fought a goomba and won!
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (1, 3)
+Lives remaining: 3
+Coins in wallet: 1
+Power Level: 0
+
+c b k m c 
+c x m H c 
+g m w x x 
+x c m k x 
+k g x m g 
+
+Mario will move UP.
+Mario ate a mushroom! (Power Level: 1)
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (0, 3)
+Lives remaining: 3
+Coins in wallet: 1
+Power Level: 1
+
+c b k H c 
+c x m x c 
+g m w x x 
+x c m k x 
+k g x m g 
+
+Mario will move UP.
+Mario ate a mushroom! (Power Level: 2)
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 3)
+Lives remaining: 3
+Coins in wallet: 1
+Power Level: 2
+
+c b k x c 
+c x m x c 
+g m w x x 
+x c m k x 
+k g x H g 
+
+Mario will move UP.
+Mario fought a koopa and lost. Power Level: 1
+Mario will STAY PUT.
+
+Mario fought a koopa and won!
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (3, 3)
+Lives remaining: 3
+Coins in wallet: 1
+Power Level: 1
+
+c b k x c 
+c x m x c 
+g m w x x 
+x c m H x 
+k g x x g 
+
+Mario will move DOWN.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 3)
+Lives remaining: 3
+Coins in wallet: 1
+Power Level: 1
+
+c b k x c 
+c x m x c 
+g m w x x 
+x c m x x 
+k g x H g 
+
+Mario will move LEFT.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 2)
+Lives remaining: 3
+Coins in wallet: 1
+Power Level: 1
+
+c b k x c 
+c x m x c 
+g m w x x 
+x c m x x 
+k g H x g 
+
+Mario will move RIGHT
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 3)
+Lives remaining: 3
+Coins in wallet: 1
+Power Level: 1
+
+c b k x c 
+c x m x c 
+g m w x x 
+x c m x x 
+k g x H g 
+
+Mario will move LEFT.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 2)
+Lives remaining: 3
+Coins in wallet: 1
+Power Level: 1
+
+c b k x c 
+c x m x c 
+g m w x x 
+x c m x x 
+k g H x g 
+
+Mario will move RIGHT
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 3)
+Lives remaining: 3
+Coins in wallet: 1
+Power Level: 1
+
+c b k x c 
+c x m x c 
+g m w x x 
+x c m x x 
+k g x H g 
+
+Mario will move DOWN.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (0, 3)
+Lives remaining: 3
+Coins in wallet: 1
+Power Level: 1
+
+c b k H c 
+c x m x c 
+g m w x x 
+x c m x x 
+k g x x g 
+
+Mario will move RIGHT
+Mario picked up a coin! (2)
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (0, 4)
+Lives remaining: 3
+Coins in wallet: 2
+Power Level: 1
+
+c b k x H 
+c x m x c 
+g m w x x 
+x c m x x 
+k g x x g 
+
+Mario will move LEFT.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (0, 3)
+Lives remaining: 3
+Coins in wallet: 2
+Power Level: 1
+
+c b k H x 
+c x m x c 
+g m w x x 
+x c m x x 
+k g x x g 
+
+Mario will move RIGHT
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (0, 4)
+Lives remaining: 3
+Coins in wallet: 2
+Power Level: 1
+
+c b k x H 
+c x m x c 
+g m w x x 
+x c m x x 
+k g x x g 
+
+Mario will move UP.
+Mario fought a goomba and won!
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 4)
+Lives remaining: 3
+Coins in wallet: 2
+Power Level: 1
+
+c b k x x 
+c x m x c 
+g m w x x 
+x c m x x 
+k g x x H 
+
+Mario will move UP.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (3, 4)
+Lives remaining: 3
+Coins in wallet: 2
+Power Level: 1
+
+c b k x x 
+c x m x c 
+g m w x x 
+x c m x H 
+k g x x x 
+
+Mario will move RIGHT
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (3, 0)
+Lives remaining: 3
+Coins in wallet: 2
+Power Level: 1
+
+c b k x x 
+c x m x c 
+g m w x x 
+H c m x x 
+k g x x x 
+
+Mario will move RIGHT
+Mario picked up a coin! (3)
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (3, 1)
+Lives remaining: 3
+Coins in wallet: 3
+Power Level: 1
+
+c b k x x 
+c x m x c 
+g m w x x 
+x H m x x 
+k g x x x 
+
+Mario will move DOWN.
+Mario fought a goomba and won!
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 1)
+Lives remaining: 3
+Coins in wallet: 3
+Power Level: 1
+
+c b k x x 
+c x m x c 
+g m w x x 
+x x m x x 
+k H x x x 
+
+Mario will move RIGHT
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 2)
+Lives remaining: 3
+Coins in wallet: 3
+Power Level: 1
+
+c b k x x 
+c x m x c 
+g m w x x 
+x x m x x 
+k x H x x 
+
+Mario will move RIGHT
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 3)
+Lives remaining: 3
+Coins in wallet: 3
+Power Level: 1
+
+c b k x x 
+c x m x c 
+g m w x x 
+x x m x x 
+k x x H x 
+
+Mario will move DOWN.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (0, 3)
+Lives remaining: 3
+Coins in wallet: 3
+Power Level: 1
+
+c b k H x 
+c x m x c 
+g m w x x 
+x x m x x 
+k x x x x 
+
+Mario will move DOWN.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (1, 3)
+Lives remaining: 3
+Coins in wallet: 3
+Power Level: 1
+
+c b k x x 
+c x m H c 
+g m w x x 
+x x m x x 
+k x x x x 
+
+Mario will move LEFT.
+Mario ate a mushroom! (Power Level: 2)
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (1, 2)
+Lives remaining: 3
+Coins in wallet: 3
+Power Level: 2
+
+c b k x x 
+c x H x c 
+g m w x x 
+x x m x x 
+k x x x x 
+
+Mario will move RIGHT
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (1, 3)
+Lives remaining: 3
+Coins in wallet: 3
+Power Level: 2
+
+c b k x x 
+c x x H c 
+g m w x x 
+x x m x x 
+k x x x x 
+
+Mario will move UP.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (0, 3)
+Lives remaining: 3
+Coins in wallet: 3
+Power Level: 2
+
+c b k H x 
+c x x x c 
+g m w x x 
+x x m x x 
+k x x x x 
+
+Mario will move UP.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 3)
+Lives remaining: 3
+Coins in wallet: 3
+Power Level: 2
+
+c b k x x 
+c x x x c 
+g m w x x 
+x x m x x 
+k x x H x 
+
+Mario will move DOWN.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (0, 3)
+Lives remaining: 3
+Coins in wallet: 3
+Power Level: 2
+
+c b k H x 
+c x x x c 
+g m w x x 
+x x m x x 
+k x x x x 
+
+Mario will move UP.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 3)
+Lives remaining: 3
+Coins in wallet: 3
+Power Level: 2
+
+c b k x x 
+c x x x c 
+g m w x x 
+x x m x x 
+k x x H x 
+
+Mario will move RIGHT
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 4)
+Lives remaining: 3
+Coins in wallet: 3
+Power Level: 2
+
+c b k x x 
+c x x x c 
+g m w x x 
+x x m x x 
+k x x x H 
+
+Mario will move RIGHT
+Mario fought a koopa and won!
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 0)
+Lives remaining: 3
+Coins in wallet: 3
+Power Level: 2
+
+c b k x x 
+c x x x c 
+g m w x x 
+x x m x x 
+H x x x x 
+
+Mario will move DOWN.
+Mario picked up a coin! (4)
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (0, 0)
+Lives remaining: 3
+Coins in wallet: 4
+Power Level: 2
+
+H b k x x 
+c x x x c 
+g m w x x 
+x x m x x 
+x x x x x 
+
+Mario will move UP.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 0)
+Lives remaining: 3
+Coins in wallet: 4
+Power Level: 2
+
+x b k x x 
+c x x x c 
+g m w x x 
+x x m x x 
+H x x x x 
+
+Mario will move RIGHT
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (4, 1)
+Lives remaining: 3
+Coins in wallet: 4
+Power Level: 2
+
+x b k x x 
+c x x x c 
+g m w x x 
+x x m x x 
+x H x x x 
+
+Mario will move UP.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (3, 1)
+Lives remaining: 3
+Coins in wallet: 4
+Power Level: 2
+
+x b k x x 
+c x x x c 
+g m w x x 
+x H m x x 
+x x x x x 
+
+Mario will move LEFT.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (3, 0)
+Lives remaining: 3
+Coins in wallet: 4
+Power Level: 2
+
+x b k x x 
+c x x x c 
+g m w x x 
+H x m x x 
+x x x x x 
+
+Mario will move UP.
+Mario fought a goomba and won!
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (2, 0)
+Lives remaining: 3
+Coins in wallet: 4
+Power Level: 2
+
+x b k x x 
+c x x x c 
+H m w x x 
+x x m x x 
+x x x x x 
+
+Mario will move RIGHT
+
+EXTRA LIFE (7 consecutive kills)
+Mario ate a mushroom! (Power Level: 3)
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (2, 1)
+Lives remaining: 4
+Coins in wallet: 4
+Power Level: 3
+
+x b k x x 
+c x x x c 
+x H w x x 
+x x m x x 
+x x x x x 
+
+Mario will move UP.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (1, 1)
+Lives remaining: 4
+Coins in wallet: 4
+Power Level: 3
+
+x b k x x 
+c H x x c 
+x x w x x 
+x x m x x 
+x x x x x 
+
+Mario will move RIGHT
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (1, 2)
+Lives remaining: 4
+Coins in wallet: 4
+Power Level: 3
+
+x b k x x 
+c x H x c 
+x x w x x 
+x x m x x 
+x x x x x 
+
+Mario will move UP.
+Mario fought a koopa and lost. Power Level: 2
+Mario will STAY PUT.
+
+Mario fought a koopa and won!
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 1
+Mario is at position (0, 2)
+Lives remaining: 4
+Coins in wallet: 4
+Power Level: 2
+
+x b H x x 
+c x x x c 
+x x w x x 
+x x m x x 
+x x x x x 
+
+Mario will move LEFT.
+Mario fought the level boss and won!
+Mario will move on to the next level!
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 2
+Mario is at position (1, 2)
+Lives remaining: 4
+Coins in wallet: 4
+Power Level: 2
+
+b c x m k 
+g g H m c 
+m c k x c 
+k c k c g 
+x g w k k 
+
+Mario will move RIGHT
+Mario ate a mushroom! (Power Level: 3)
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 2
+Mario is at position (1, 3)
+Lives remaining: 4
+Coins in wallet: 4
+Power Level: 3
+
+b c x m k 
+g g x H c 
+m c k x c 
+k c k c g 
+x g w k k 
+
+Mario will move UP.
+Mario ate a mushroom! (Power Level: 4)
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 2
+Mario is at position (0, 3)
+Lives remaining: 4
+Coins in wallet: 4
+Power Level: 4
+
+b c x H k 
+g g x x c 
+m c k x c 
+k c k c g 
+x g w k k 
+
+Mario will move RIGHT
+Mario fought a koopa and won!
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 2
+Mario is at position (0, 4)
+Lives remaining: 4
+Coins in wallet: 4
+Power Level: 4
+
+b c x x H 
+g g x x c 
+m c k x c 
+k c k c g 
+x g w k k 
+
+Mario will move UP.
+Mario fought a koopa and won!
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 2
+Mario is at position (4, 4)
+Lives remaining: 4
+Coins in wallet: 4
+Power Level: 4
+
+b c x x x 
+g g x x c 
+m c k x c 
+k c k c g 
+x g w k H 
+
+Mario will move RIGHT
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 2
+Mario is at position (4, 0)
+Lives remaining: 4
+Coins in wallet: 4
+Power Level: 4
+
+b c x x x 
+g g x x c 
+m c k x c 
+k c k c g 
+H g w k x 
+
+Mario will move DOWN.
+Mario fought the level boss and lost. Power Level: 2
+Mario will STAY PUT.
+
+Mario fought the level boss and lost. Power Level: 0
+Mario will STAY PUT.
+
+Mario fought the level boss and lost.
+3 lives remaining.
+Mario will STAY PUT.
+
+Mario fought the level boss and won!
+Mario will move on to the next level!
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 3
+Mario is at position (2, 2)
+Lives remaining: 3
+Coins in wallet: 4
+Power Level: 0
+
+k x k k x 
+b g g k k 
+x m w k k 
+c c x x g 
+c m x k c 
+
+Mario will move LEFT.
+Mario ate a mushroom! (Power Level: 1)
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 3
+Mario is at position (2, 1)
+Lives remaining: 3
+Coins in wallet: 4
+Power Level: 1
+
+k x k k x 
+b g g k k 
+x H x k k 
+c c x x g 
+c m x k c 
+
+Mario will move LEFT.
+Mario moves on.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+Level: 3
+Mario is at position (2, 0)
+Lives remaining: 3
+Coins in wallet: 4
+Power Level: 1
+
+k x k k x 
+b g g k k 
+H x x k k 
+c c x x g 
+c m x k c 
+
+Mario will move UP.
+Mario fought the level boss and lost.
+2 lives remaining.
+Mario will STAY PUT.
+
+Mario fought the level boss and lost.
+1 lives remaining.
+Mario will STAY PUT.
+
+Mario fought the level boss and won!
+
+Mario saved the princess!
+CONGRATULATIONS, YOU WIN!
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+

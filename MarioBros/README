@@ -1,0 +1,73 @@
+Author: Tommy Golbranson
+Date Created: February 2024
+Course: CPSC 350
+Professor: Rene German
+
+
+Title: Not So Super Mario Bros
+
+
+Information:
+  This project creates a text-based simulation of the 
+  popular Nintedo game, "Super Mario Bros."
+
+
+Running the program:
+  First create a .txt file with the specifications listed in Execution (below)
+  To run the simulation, open terminal and do the following...
+      1. Navigate to the directory containing the files
+      2. Enter the following commands
+            g++ *.cpp
+            ./a.out
+      4. Follow the prompts
+      5. Check directory for the filename you provided as output
+
+Execution:
+  The program will prompt the user for the absolute path of a txt file (e.g. 'preferences.txt')
+  containing the following information... (note lines 4-8 must add to 100)
+      Line # 1 is the number of levels, L (a positive integer)
+      Line # 2 is the dimension of the grid, N (a positive integer)
+      Line # 3 is the number of initial lives, V (a positive integer)
+      Line # 4 is the approximate percentage of the positions in each level with coins (a positive
+      integer)
+      Line # 5 is the approximate percentage of the positions in each level with nothing (a positive
+      integer)
+      Line # 6 is the approximate percentage of the positions in each level with Goombas (a positive
+      integer)
+      Line # 7 is the approximate percentage of the positions in each level with Koopas (a positive
+      integer)
+      Line # 8 is the approximate percentage of the positions in each level with mushrooms (a positive
+      integer)
+
+  The program will then prompt the user for a name for the output file (e.g. 'log.txt')
+
+  The simulation will then read the input file, simulate gameplay, and output each step
+  Mario takes in the output file.
+
+
+Files:
+- main.cpp
+- FileProcessor.h
+- FileProcessor.cpp
+- Game.h
+- Game.cpp
+- Level.h
+- Level.cpp
+- Settings.h
+- Settings.cpp
+- preferences.txt
+- README
+- a.out
+
+
+
+References:
+
+https://www.programiz.com/cpp-programming/enumeration
+
+https://cplusplus.com/reference/cstdlib/rand/
+
+https://cplusplus.com/forum/beginner/251637/
+
+https://en.cppreference.com/w/cpp/numeric/random/srand
+
