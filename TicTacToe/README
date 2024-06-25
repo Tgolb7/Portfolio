@@ -1,0 +1,13 @@
+Author: Thomas Golbranson
+Project: TicTacToe
+Language: MATLAB
+
+Features:
+- Playable Tic-Tac-Toe GUI
+- Primitive AI model
+- Features player v. player, player v. computer, computer v. computer
+- Counts wins, losses, and draws
+- Option to play again or exit the program
+
+Execution:
+To run the program, copy the file into a MATLAB compiler (such as https://matlab.mathworks.com/) and click 'Run'
