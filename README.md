@@ -81,7 +81,7 @@ Clone this repository using Git:
 
 <h2>Usage</h2>
 
-Each project folder contains detailed README files with specific instructions on how to:
+Each project folder contains detailed `README` files with specific instructions on how to:
 
 - Set up the project environment.
 - Install dependencies.
@@ -93,7 +93,7 @@ Each project folder contains detailed README files with specific instructions on
 
 
 <h2>Contribution</h2>
-Contributions are not open to this repository as it primarily serves as a showcase of personal projects. However, feedback and suggestions are always welcome! If you have any questions or ideas, feel free to contact me.
+Contributions are not open to this repository as it primarily serves as a showcase of personal projects. However, feedback and suggestions are always welcome! If you have any questions or ideas, feel free to contact me (information below).
 
 
 
