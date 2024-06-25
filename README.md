@@ -50,6 +50,18 @@ https://github.com/Tgolb7/Portfolio/tree/main/Minesweeper
 
 <br>
 
+<h3>Minesweeper</h3>
+
+https://github.com/Tgolb7/Portfolio/tree/main/Wordle
+
+**Language:** Java<br>
+**Description:** A playable Wordle GUI
+<br>
+**Concepts showcased:** GUI, Hashmap, String operations, KeyListener
+
+<br>
+
+
 
 <h2>Getting Started</h2>
 
