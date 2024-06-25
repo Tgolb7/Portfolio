@@ -4,8 +4,6 @@ Welcome to my project portfolio repository! This repository contains a collectio
 
 
 
-
-
 <h2>Projects</h2>
 
 <h3>MarioBros</h3>
@@ -44,8 +42,8 @@ Clone this repository using Git:
 
 3. Explore individual project folders to view code and documentation.
 4. To run a program, navigate to the specific project and use the following commands:
-`g++ *.cpp
-  ./a.out`
+`g++ *.cpp`
+`./a.out`
 
 
 
@@ -54,11 +52,10 @@ Clone this repository using Git:
 
 Each project folder contains detailed README files with specific instructions on how to:
 
-
-Set up the project environment.
-Install dependencies.
-Run the project locally.
-Any other relevant instructions.
+- Set up the project environment.
+- Install dependencies.
+- Run the project locally.
+- Any other relevant instructions.
 
 
 
@@ -76,7 +73,7 @@ The code in this repository is licensed under the MIT License. You are free to u
 
 
 
-<h3>Contact</h3>
+<h2>Contact</h2>
 Email: golbranson@chapman.edu \n
 LinkedIn: https://www.linkedin.com/in/thomas-golbranson/ \n
 Portfolio: https://github.com/Tgolb7/Portfolio/tree/main \n
