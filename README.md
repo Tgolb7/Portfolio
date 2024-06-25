@@ -43,7 +43,9 @@ Clone this repository using Git:
 `cd Portfolio`
 
 3. Explore individual project folders to view code and documentation.
-4. To run a program, navigate to the specific project and run the `main.cpp` file or create one.
+4. To run a program, navigate to the specific project and use the following commands:
+`g++ *.cpp
+  ./a.out`
 
 
 
