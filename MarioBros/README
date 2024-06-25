@@ -1,10 +1,5 @@
 Author: Tommy Golbranson
 Date Created: February 2024
-Course: CPSC 350
-Professor: Rene German
-
-
-Title: Not So Super Mario Bros
 
 
 Information:
@@ -13,7 +8,7 @@ Information:
 
 
 Running the program:
-  First create a .txt file with the specifications listed in Execution (below)
+  First create a .txt file with the specifications listed in Execution (below). NOTE: one is provided by default, `preferences.txt`
   To run the simulation, open terminal and do the following...
       1. Navigate to the directory containing the files
       2. Enter the following commands
@@ -23,7 +18,7 @@ Running the program:
       5. Check directory for the filename you provided as output
 
 Execution:
-  The program will prompt the user for the absolute path of a txt file (e.g. 'preferences.txt')
+  The program will prompt the user for the path of a txt file (e.g. 'preferences.txt')
   containing the following information... (note lines 4-8 must add to 100)
       Line # 1 is the number of levels, L (a positive integer)
       Line # 2 is the dimension of the grid, N (a positive integer)
