@@ -16,7 +16,6 @@ https://github.com/Tgolb7/Portfolio/tree/main/MarioBros
 <br>
 **Concepts showcased:** Game design, file processing, logging, arrays, data manipulation
 
-<br>
 
 <h3>Monotonic Stack</h3>
 
@@ -29,7 +28,6 @@ https://github.com/Tgolb7/Portfolio/tree/main/Monotonic_stack
 <br>
 **Concepts showcased:** Stack and array data structures, branching, encapsulation
 
-<br>
 
 
 <h3>TicTacToe</h3>
