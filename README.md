@@ -3,10 +3,9 @@
 Welcome to my project portfolio repository! This repository contains a collection of projects that showcase my skills and experience in various domains of computer science. Each project is a representation of my learning journey and practical application of concepts.
 
 
-
 <h2>Projects</h2>
 
-<h3>MarioBros</h3>
+<h3>MarioBros (C++)</h3>
 
 https://github.com/Tgolb7/Portfolio/tree/main/MarioBros
 
@@ -16,7 +15,7 @@ https://github.com/Tgolb7/Portfolio/tree/main/MarioBros
 **Concepts showcased:** Game design, file processing, logging, arrays, data manipulation
 
 
-<h3>Monotonic Stack</h3>
+<h3>Monotonic Stack (C++)</h3>
 
 
 https://github.com/Tgolb7/Portfolio/tree/main/Monotonic_stack
@@ -28,7 +27,7 @@ https://github.com/Tgolb7/Portfolio/tree/main/Monotonic_stack
 
 
 
-<h3>TicTacToe</h3>
+<h3>TicTacToe (Matlab)</h3>
 
 https://github.com/Tgolb7/Portfolio/tree/main/TicTacToe
 
@@ -39,7 +38,7 @@ https://github.com/Tgolb7/Portfolio/tree/main/TicTacToe
 <br>
 
 
-<h3>Minesweeper</h3>
+<h3>Minesweeper (Matlab)</h3>
 
 https://github.com/Tgolb7/Portfolio/tree/main/Minesweeper
 
@@ -48,9 +47,8 @@ https://github.com/Tgolb7/Portfolio/tree/main/Minesweeper
 <br>
 **Concepts showcased:** Probabilities, GUI Menu control, customizability, scalability
 
-<br>
 
-<h3>Minesweeper</h3>
+<h3>Wordle (Java)</h3>
 
 https://github.com/Tgolb7/Portfolio/tree/main/Wordle
 
