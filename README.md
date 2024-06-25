@@ -1,4 +1,4 @@
-<h2>***PROJECT PORTFOLIO***</h2>
+<h2>PROJECT PORTFOLIO</h2>
 
 Welcome to my project portfolio repository! This repository contains a collection of projects that showcase my skills and experience in various domains of computer science. Each project is a representation of my learning journey and practical application of concepts.
 
@@ -46,6 +46,6 @@ Contributions are not open to this repository as it primarily serves as a showca
 The code in this repository is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
 
 Contact
-Email: golbranson@chapman.edu
-LinkedIn: https://www.linkedin.com/in/thomas-golbranson/
-Portfolio: https://github.com/Tgolb7/Portfolio/tree/main
+Email: golbranson@chapman.edu \n
+LinkedIn: https://www.linkedin.com/in/thomas-golbranson/ \n
+Portfolio: https://github.com/Tgolb7/Portfolio/tree/main \n
