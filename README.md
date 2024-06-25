@@ -27,7 +27,7 @@ https://github.com/Tgolb7/Portfolio/tree/main/Monotonic_stack
 
 
 
-<h3>TicTacToe (Matlab)</h3>
+<h3>TicTacToe (MATLAB)</h3>
 
 https://github.com/Tgolb7/Portfolio/tree/main/TicTacToe
 
@@ -38,7 +38,7 @@ https://github.com/Tgolb7/Portfolio/tree/main/TicTacToe
 <br>
 
 
-<h3>Minesweeper (Matlab)</h3>
+<h3>Minesweeper (MATLAB)</h3>
 
 https://github.com/Tgolb7/Portfolio/tree/main/Minesweeper
 
