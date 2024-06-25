@@ -1,4 +1,4 @@
-<h2>PROJECT PORTFOLIO</h2>
+<h1>PROJECT PORTFOLIO</h1>
 
 Welcome to my project portfolio repository! This repository contains a collection of projects that showcase my skills and experience in various domains of computer science. Each project is a representation of my learning journey and practical application of concepts.
 
@@ -6,7 +6,7 @@ Welcome to my project portfolio repository! This repository contains a collectio
 
 
 
-<h3>Projects</h3>
+<h2>Projects</h2>
 
 **MarioBros**
 
@@ -30,7 +30,7 @@ https://github.com/Tgolb7/Portfolio/tree/main/Monotonic_stack
 
 
 
-<h3>Getting Started</h3>
+<h2>Getting Started</h2>
 
 To get a local copy of the projects...
 
@@ -48,7 +48,7 @@ Clone this repository using Git:
 
 
 
-<h3>Usage</h3>
+<h2>Usage</h2>
 
 Each project folder contains detailed README files with specific instructions on how to:
 
@@ -62,14 +62,14 @@ Any other relevant instructions.
 
 
 
-<h3>Contribution</h3>
+<h2>Contribution</h2>
 Contributions are not open to this repository as it primarily serves as a showcase of personal projects. However, feedback and suggestions are always welcome! If you have any questions or ideas, feel free to contact me.
 
 
 
 
 
-<h3>License</h3>
+<h2>License</h2>
 The code in this repository is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
 
 
