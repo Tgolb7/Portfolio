@@ -5,7 +5,7 @@ Project: TicTacToe<br>
 Language: MATLAB<br>
 
 <h3>Files: </h3>
-(1/2) LabM4_TTT.m
+(1/2) LabM4_TTT.m<br>
 (2/2) README.md
 
 <h3>Features:</h3>
