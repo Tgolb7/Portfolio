@@ -11,7 +11,6 @@ Welcome to my project portfolio repository! This repository contains a collectio
 https://github.com/Tgolb7/Portfolio/tree/main/MarioBros
 
 **Language:** C++
-
 **Description:** Performs a simulation of the hit classic Super Mario Bros. The program takes input from a txt file to specify characteristics of the game such as grid size, number of lives, etc. and outputs the gameplay in a file, log.txt. The output file prints information about each move Mario takes.
 <br>
 **Concepts showcased:** Game design, file processing, logging, arrays, data manipulation
@@ -23,7 +22,6 @@ https://github.com/Tgolb7/Portfolio/tree/main/MarioBros
 https://github.com/Tgolb7/Portfolio/tree/main/Monotonic_stack
 
 **Language:** C++
-
 **Description:** A template class for a generic monotonically increasing/decreasing stack.
 <br>
 **Concepts showcased:** Stack and array data structures, branching, encapsulation
@@ -35,7 +33,6 @@ https://github.com/Tgolb7/Portfolio/tree/main/Monotonic_stack
 https://github.com/Tgolb7/Portfolio/tree/main/TicTacToe
 
 **Language:** MATLAB
-
 **Description:** A playable Tic-Tac-Toe GUI
 <br>
 **Concepts showcased:** Primitive AI model, GUI, branching, looping
@@ -47,7 +44,6 @@ https://github.com/Tgolb7/Portfolio/tree/main/TicTacToe
 https://github.com/Tgolb7/Portfolio/tree/main/Minesweeper
 
 **Language:** MATLAB
-
 **Description:** A playable Minesweeper GUI
 <br>
 **Concepts showcased:** Probabilities, GUI Menu control, customizability, scalability
