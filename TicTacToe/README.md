@@ -4,6 +4,10 @@ Author: Thomas Golbranson <br>
 Project: TicTacToe<br>
 Language: MATLAB<br>
 
+<h3>Files: </h3>
+(1/2) LabM4_TTT.m
+(2/2) README.md
+
 <h3>Features:</h3>
 <ul>
 <li>Playable Tic-Tac-Toe GUI</li>
