@@ -74,6 +74,6 @@ The code in this repository is licensed under the MIT License. You are free to u
 
 
 <h2>Contact</h2>
-Email: golbranson@chapman.edu \n
-LinkedIn: https://www.linkedin.com/in/thomas-golbranson/ \n
-Portfolio: https://github.com/Tgolb7/Portfolio/tree/main \n
+Email: golbranson@chapman.edu <br>
+LinkedIn: https://www.linkedin.com/in/thomas-golbranson/ <br>
+Portfolio: https://github.com/Tgolb7/Portfolio/tree/main <br>
