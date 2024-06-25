@@ -3,9 +3,9 @@
 Welcome to my project portfolio repository! This repository contains a collection of projects that showcase my skills and experience in various domains of computer science. Each project is a representation of my learning journey and practical application of concepts.
 
 <h3>Projects</h3>
+
 Here's a brief overview of the projects included in this repository so far:
-
-
+<br>
 **Monotonic Stack**
 
 https://github.com/Tgolb7/Portfolio/tree/main/Monotonic_stack
