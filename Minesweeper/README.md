@@ -11,7 +11,7 @@ Language: MATLAB<br>
 <h3>Features:</h3>
 <ul>
 <li>Playable Minesweeper GUI</li>
-<li>Probability of touching a mine in an adjacent cell</li>
+<li>Displays probability of touching a mine in an adjacent cell</li>
 <li>Flag, about, reset, hint, reveal, and quit options</li>
 <li>Menu with option to play again after game ends</li>
 </ul>
