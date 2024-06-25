@@ -8,7 +8,7 @@ Welcome to my project portfolio repository! This repository contains a collectio
 
 <h2>Projects</h2>
 
-**MarioBros**
+<h3>MarioBros</h3>
 
 https://github.com/Tgolb7/Portfolio/tree/main/MarioBros
 
@@ -18,7 +18,7 @@ https://github.com/Tgolb7/Portfolio/tree/main/MarioBros
 
 <br><br>
 
-**Monotonic Stack**
+<h3>Monotonic Stack</h3>
 
 https://github.com/Tgolb7/Portfolio/tree/main/Monotonic_stack
 
