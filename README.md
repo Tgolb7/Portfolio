@@ -4,8 +4,6 @@ Welcome to my project portfolio repository! This repository contains a collectio
 
 <h3>Projects</h3>
 
-Here's a brief overview of the projects included in this repository so far:
-<br>
 **Monotonic Stack**
 
 https://github.com/Tgolb7/Portfolio/tree/main/Monotonic_stack
