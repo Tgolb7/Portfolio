@@ -9,9 +9,12 @@ A guess must be a valid five letter word from the list of playable words.
 
 Features: GUI, Hashmap, String operations, KeyListener
 
-Execution: Copy the files into an IDE such as Eclipse or VS Code and run. The `Wordle` directory represents the project folder,
-and the `wordle` directory represents the package. the package contains the .java files, 
-and the others are contained within the project folder. 
+Execution: Navigate to the Wordle directory in the command line and type:
+
+  javac wordle/*.java         
+  java wordle.Wordle          
+
+
 
 Disclaimer: This Java program is a fan-made recreation inspired by the New York Times game, Wordle. 
 It is independently developed and is not affiliated with, endorsed, or sponsored by the New York Times. 
